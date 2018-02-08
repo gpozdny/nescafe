@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ebe304-40fb-4afa-95b7-1e4e7ab06bc9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background/backgr@3x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background/bg-gold-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background/bg-gold.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/background/backgr.jpg" afterPath="$PROJECT_DIR$/assets/images/background/backgr.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/background/bg-gold.jpg" afterPath="$PROJECT_DIR$/assets/images/background/bg-gold.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/android.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/i-phone.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,12 +97,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518101175311</updated>
       <workItem from="1518101177899" duration="96000" />
-      <workItem from="1518101836589" duration="183000" />
+      <workItem from="1518101836589" duration="429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279000" />
+    <option name="totallyTimeSpent" value="525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
