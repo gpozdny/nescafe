@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ebe304-40fb-4afa-95b7-1e4e7ab06bc9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/landing-page-nescafe.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/android.png" afterPath="$PROJECT_DIR$/assets/images/android.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/i-phone.png" afterPath="$PROJECT_DIR$/assets/images/i-phone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icon-android.png" afterPath="$PROJECT_DIR$/assets/images/icon-android.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icon-ios.png" afterPath="$PROJECT_DIR$/assets/images/icon-ios.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -135,12 +133,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518101175311</updated>
       <workItem from="1518101177899" duration="96000" />
-      <workItem from="1518101836589" duration="702000" />
+      <workItem from="1518101836589" duration="1089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="798000" />
+    <option name="totallyTimeSpent" value="1185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
